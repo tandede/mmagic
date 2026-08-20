@@ -7,7 +7,7 @@ einops
 face-alignment<=1.3.4
 facexlib
 huggingface-hub<0.26.0
-lmdb
+lmdb<1.7
 lpips
 mediapipe<=0.10.11; python_version < '3.9'
 mediapipe<1.0; python_version >= '3.9'
